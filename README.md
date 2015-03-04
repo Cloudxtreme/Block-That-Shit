@@ -6,7 +6,7 @@ Block-That-Shit is a free, cross platform domain blocker designed with Qt and wr
 
 Unlike most ad blocking software (AdBlock Plus for example), Block-That-Shit requires NO browser extensions to install.  It works with ALL web browsers as well as any other software on your system.
 
-Block-That-Shit is compatible with Windows, MacOS X, and most Linux distributions.  Ports for Android and iOS are coming soon!
+Block-That-Shit is compatible with Windows, MacOS X, and most Linux distributions.  Ports for Android and iPhone are coming soon!
 
 <h3>How it works</h3>
 Block-That-Shit works by manipulating the hosts file of your operating system.  The hosts file is a core component of the Internet Protocol Suite, every device connected to an IP based network (such as the internet) has one.  The hosts file is there to assist your operating system with domain name resolution.  Block-That-Shit assembles a list of domains that are known to serve advertisements and malware.  It injects this list into your hosts file, forcing those domains to redirect to the loopback address on your network interface.
