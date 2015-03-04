@@ -622,6 +622,8 @@ class ControlMainWindow(QtGui.QMainWindow):
         self.ui.tabWidget.setEnabled(boolean)
         self.ui.menubar.setEnabled(boolean)
         self.ui.pushButtonOnOff.setEnabled(boolean)
+        self.ui.pushButton_SaveBlackList.setEnabled(boolean)
+        self.ui.pushButton_SaveWhiteList.setEnabled(boolean)
 
 
     # this allows us to retrieve user input from the gui from the worker thread
