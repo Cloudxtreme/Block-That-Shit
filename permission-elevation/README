@@ -1,0 +1,5 @@
+The elevate.exe binary is used by Block-That-Shit for Windows.  It allows us to offer the user a UAC prompt whenever we are writing changes to the hosts file.  This way we do not need to run the main program as administrator.
+
+Elevate.exe is a separate project of mine.  It allows a user to run any command from a Windows command prompt with elevated permissions, under the context of the current user, via a UAC prompt.  It is written in C#, and is also open source.  It is available under the MIT license.  You can find the source code for this project at:
+
+https://github.com/joeylane/Elevate
