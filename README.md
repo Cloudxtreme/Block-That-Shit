@@ -59,9 +59,9 @@ Yes!  Malware is often spread through insecure advertising networks, and served 
 Block-That-Shit is NOT meant to replace traditional end point anti-virus software, it is designed to supplement it, and provide you with yet another layer of protection.
 
 <h3>Can Block-That-Shit update my hosts file automatically?</h3>
-Yes, although this requires some additional setup.  Block-That-Shit has a single command line parameter called --autoupdate.  If you run Block-That-Shit with this parameter and specify the path to your settings.cfg file, it will run without user interaction.  For example:
+Yes, although this requires some additional setup.  Block-That-Shit has a single command line parameter called --autorun.  If you run Block-That-Shit with this parameter and specify the path to your settings.cfg file, it will run without user interaction.  For example:
 
-* Block-That-Shit.exe --autoupdate "C:\Users\YOUR USER NAME\AppData\Local\Joey Lane\Block-That-Shit\settings.cfg"
+* Block-That-Shit.exe --autorun "C:\Users\YOUR USER NAME\AppData\Local\Joey Lane\Block-That-Shit\settings.cfg"
 
 While this may seem complicated at first, using this command line parameter means you can use Block-That-Shit with ANY task scheduling system.  That means Task Scheduler for Windows is supported, Automator for MacOS X is supported, and Cron/Anacron for Linux is supported.  It also allows Block-That-Shit to be integrated into any maintenance scripts.  Please note that in order to use the autoupdate feature, Block-That-Shit MUST be run as Administrator on Windows, or root on MacOS X and Linux.
 
