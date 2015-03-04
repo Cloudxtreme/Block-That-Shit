@@ -31,9 +31,11 @@ If you need ARM support, or x86 (32bit) support for OS X or Linux, you're going 
 <h3>Where can I download Block-That-Shit?</h3>
 You can download Block-That-Shit for Windows, MacOS X, and Linux right here:
 
-* https://github.com/joeylane/Block-That-Shit/releases
+* [Block-That-Shit for Windows](https://github.com/joeylane/Block-That-Shit/releases/download/v1.0/Block-That-Shit-Windows.exe)
+* [Block-That-Shit for Mac](https://github.com/joeylane/Block-That-Shit/releases/download/v1.0/Block-That-Shit-Mac.app.zip)
+* [Block-That-Shit for Linux](https://github.com/joeylane/Block-That-Shit/releases/download/v1.0/Block-That-Shit-Linux.tar.gz)
 
-No installation is required, the binaries are designed to be portable.  Just download, and run!  Simple as that.  You can even use Block-That-Shit from a portable flash drive if you need to enable blocking on multiple computers.
+No installation is required, the binaries are designed to be completely portable.  Just download, and run!  Simple as that.  For MacOS X and Linux users, the binaries are compressed so you'll need to extract them first.  One of the cool benefits of single binary portability, is it allows you to use Block-That-Shit from a portable flash drive if you need to enable blocking on multiple computers.  This makes it a handy addition to your tech tool kit.
 
 NOTE:  Technically, you can remove Block-That-Shit once you have enabled domain blocking and it will still continue to protect you, though I wouldnt recommend it.  Keeping Block-That-Shit handy on your PC allows you to continually update the block list, and also re-enable advertisements if need be.  The primary blacklist used by Block-That-Shit is updated every single day with new domains.  So its not a bad idea to keep Block-That-Shit handy just to stay up to date.
 
